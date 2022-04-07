@@ -7,8 +7,7 @@ Download the repository
 Install Python3 (https://www.python.org/downloads/)
 
 ## Project Roadmap File
-[Project roadmap Google  Doc link]
-(https://docs.google.com/document/d/1-Olt9gE5ExXDRPuw504DsUP4YcvjixucXRcN_x-uxKI/edit?usp=sharing)
+[Project roadmap Google  Doc link](https://docs.google.com/document/d/1-Olt9gE5ExXDRPuw504DsUP4YcvjixucXRcN_x-uxKI/edit?usp=sharing)
 
 ## Contributing 
 Zainab Hussain
